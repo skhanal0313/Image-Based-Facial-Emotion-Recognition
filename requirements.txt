@@ -1,0 +1,18 @@
+
+# System Requirements
+OS: macOS, Windows, or Linux
+RAM: 8 GB (reccommended)
+GPU: Optional but recommended for training (CUDA-compatible)
+
+# Software Requirements
+Python>=3.8
+Jupyter Notebook (optional for experimentation)
+
+# Main Libraries
+tensorflow>=2.11.0
+opencv-python
+numpy
+matplotlib
+scikit-learn
+seaborn
+pandas
